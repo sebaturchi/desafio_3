@@ -1,0 +1,21 @@
+/* .contenedor{
+    display: flex;
+    border-style: solid;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-shrink: 1;
+}
+
+.caja{
+    margin: 20px;
+    padding: 20px;
+    background-color: grey;
+} */
+
+.ejemploPrueba1{
+    flex-wrap: wrap;
+    width: 60%;
+    border-style: dashed;
+    border-color: yellow;
+    background-color: bisque;
+}
